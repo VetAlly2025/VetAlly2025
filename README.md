@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Danzell (@VetAlly2025)
+# 👋 Hi, I'm Danzell
 
 Co-founder and Chief Strategy & Innovation Officer of Brand Lift 360, where we help private medical and aesthetic practices get recommended by AI search and turn that visibility into booked appointments. I am finishing a book, The [Cited] Physician, on how independent practice owners get recommended by AI when patients ask where to go.
 
