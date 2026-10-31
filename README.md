@@ -1,31 +1,33 @@
-👋 Hi, I’m @VetAlly2025
+# 👋 Hi, I'm Danzell (@VetAlly2025)
 
-CEO and founder of VetAlly, an AI-powered SaaS platform transforming how veterinary clinics manage their practices and engage with clients.
-👀 I’m interested in...
+Co-founder and Chief Strategy & Innovation Officer of Brand Lift 360, where we help private medical and aesthetic practices get recommended by AI search and turn that visibility into booked appointments. I am finishing a book, The [Cited] Physician, on how independent practice owners get recommended by AI when patients ask where to go.
 
-Building technology that genuinely improves the lives of veterinary professionals and pet owners.
-Exploring the intersection of AI, automation, and healthcare to solve real-world problems.
-Learning from other SaaS founders, veterinary experts, and tech innovators.
-🌱 I’m currently learning...
+👀 I'm interested in...
 
-How to scale a SaaS business from the ground up—everything from product-market fit to growth marketing.
-The nuances of veterinary operations, client experience, and regulatory compliance.
-Best practices for building an inclusive, mission-driven company culture.
-💞️ I’m looking to collaborate on...
+- How AI search is rewriting the way patients choose a practice, and how independent owners stay visible in it
+- Building durable assets: systems, skills, and content that compound instead of expiring
+- Automation that gives small teams leverage without losing the human in the loop
 
-Partnerships with veterinary clinics, industry associations, and animal health companies.
-Integrations with wearable pet tech, telemedicine platforms, and payment solutions.
-Content creation and client education—if you’re a vet, techie, or storyteller, let’s talk!
+🌱 I'm currently learning...
+
+- How to measure AI visibility in waves, so every change to a site or a body of content can be tied to a result
+- How to package expert judgment into AI skills that a real operator supervises
+- Creative structures in real estate: seller financing, lot splits, and ADU plays in the Sacramento metro
+
+💞️ I'm looking to collaborate on...
+
+- AI visibility and answer engine optimization for independent practices
+- Founder workshops and go-to-market strategy in the Sacramento region
+- Workforce and reentry work. I coach with the Anti-Recidivism Coalition and serve on the Sacramento Works board
+
 📫 How to reach me...
 
-LinkedIn: www.linkedin.com/in/danzell-nunsuch
+- LinkedIn: https://www.linkedin.com/in/danzell-nunsuch/
+- Web: https://brandlift360.com
 
-😄 Pronouns:
+😄 Pronouns: He/Him
 
-He/Him (but our team is diverse and inclusive—everyone’s welcome!)
-⚡ Fun fact:
-
-I once helped deliver a litter of puppies during a product brainstorm session—proof that VetAlly is built with real-world veterinary moments in mind!
+⚡ Fun fact: I cook ribs and tri-tip on a Bull grill, snowboard at Sierra-at-Tahoe, and share the house with a three-year-old Australian Mini Labradoodle who runs the schedule.
 
 <!---
 VetAlly2025/VetAlly2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
